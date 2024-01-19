@@ -1,5 +1,10 @@
 # Sistema Bancário
 
+<p align="center">
+  <img src="https://github.com/JandersonLRibeiro/JandersonLRibeiro/blob/main/assets/GIF.gif" alt="Amimacao banking system">
+</p>
+
+
 ## Descrição 📚
 
 Este projeto simula as operações básicas que são executadas em um banco como: cadastro  de usuário, cadastro de conta corrente, saque, depósito e exibição de extrato bancário. Ele foi desenvolvido em linguagem Python utilizando programação orientada a objeto no jupyter notebook. 
