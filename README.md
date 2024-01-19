@@ -1,7 +1,7 @@
 # Sistema Bancário
 
 <p align="center">
-  <img src="https://github.com/JandersonLRibeiro/JandersonLRibeiro/blob/main/assets/GIF.gif" alt="Amimacao banking system">
+  <img src="https://github.com/JandersonLRibeiro/banking-system/blob/main/gif/gif.gif" alt="Amimacao banking system">
 </p>
 
 
