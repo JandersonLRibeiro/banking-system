@@ -27,10 +27,14 @@ Foi construída uma classe `ContaBancaria` com os seguintes métodos:
 
 * `exibir_extrato` que mostra todas as operações que foram executados, com o respectivo valor e horário.
 
-## Pacotes e Ferramentas 🛠️
+<h3 align="left">Linguagens e ferramentas 🛠️</h3>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  
-[![Datetime](https://img.shields.io/badge/Datetime-008080?style=for-the-badge&logo=calendar&logoColor=white)](https://docs.python.org/3/library/datetime.html)
-
-
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</a>
+<a href="https://jupyter.org/">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+</a>
+<a href="https://docs.python.org/3/library/datetime.html">
+  <img src="https://img.shields.io/badge/Datetime-000000?style=for-the-badge" alt="Datetime">
+</a></p>
